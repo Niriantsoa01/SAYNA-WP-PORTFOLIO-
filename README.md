@@ -1,5 +1,5 @@
-# SAYNA-WP-PORTFOLIO-
-Site e-commerce fait avec Wordpress
+# SAYNA-WP-PORTFOLIO-PRO
+Portfolio professionnel WordPress - Projet SAYNA
 
 # Nishop
 
