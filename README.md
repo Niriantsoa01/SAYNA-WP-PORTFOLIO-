@@ -9,7 +9,7 @@ Boutique en ligne orientée gaming (équipements, accessoires et setup personnal
 
 Le projet complet (fichiers WordPress + base de données) est disponible sur Google Drive :
 
-[Lien de téléchargement du projet](https://drive.google.com/TON-LIEN-ICI)
+[Lien de téléchargement du projet](https://drive.google.com/drive/folders/1kjF-cjGIF03W8SEZFSZsyWdlcyISrdQz?usp=drive_link)
 
 ## Prérequis
 
